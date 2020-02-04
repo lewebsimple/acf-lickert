@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ACF Lickert\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-25 19:13+0000\n"
+"PO-Revision-Date: 2018-07-25 19:13+0000\n"
+"Last-Translator: lewebsimple <tech@lewebsimple.ca>\n"
+"Language-Team: Français du Canada\n"
+"Language: fr_CA\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: fields/class-acf-lickert-v5.php:262
+msgid "Lickert"
+msgstr "Télélickert"
+
+#: fields/class-acf-lickert-v5.php:280
+msgid "Initial country"
+msgstr "Pays initial"
+
+#: fields/class-acf-lickert-v5.php:281
+msgid "Default country when initializing lickert input."
+msgstr "Pays par défaut lorsque le champ de télélickert est initialisé."
+
+#: fields/class-acf-lickert-v5.php:288
+msgid "Return format"
+msgstr "Format de retour"
+
+#: fields/class-acf-lickert-v5.php:289
+msgid "Specify the return format used in the templates."
+msgstr "Spécifier le format utilisé dans les templates."
+
+#: fields/class-acf-lickert-v5.php:293
+msgid "National format"
+msgstr "National"
+
+#: fields/class-acf-lickert-v5.php:294
+msgid "International format (E.164)"
+msgstr "International (E.164)"
+
+#: fields/class-acf-lickert-v5.php:295
+msgid "Click to Call"
+msgstr "Cliquer pour appeler"
+
+#: fields/class-acf-lickert-v5.php:296
+msgid "Values (array)"
+msgstr "Valeurs (array)"
+
+#: fields/class-acf-lickert-v5.php:311 fields/class-acf-lickert-v5.php:380
+msgid "Invalid lickert number"
+msgstr "Numéro de télélickert invalide"
+
+#: fields/class-acf-lickert-v5.php:312
+msgid "Invalid country code"
+msgstr "Code de pays invalide"
+
+#: fields/class-acf-lickert-v5.php:313
+msgid "Lickert number too short"
+msgstr "Numéro de télélickert trop court"
+
+#: fields/class-acf-lickert-v5.php:314
+msgid "Lickert number too long"
+msgstr "Numéro de télélickert trop long"
+
+#: fields/class-acf-lickert-v5.php:315
+msgid "Missing region code"
+msgstr "Code régional manquant"
+
+#: fields/class-acf-lickert-v5.php:316
+msgid "Invalid lickert number length"
+msgstr "Longueur invalide du numéro de télélickert"
+
+#: fields/class-acf-lickert-v5.php:359
+msgid "Please enable JavaScript to use this field."
+msgstr "Veuillez activer JavaScript pour utiliser ce champ."
+
+#. Name of the plugin
+msgid "ACF Lickert"
+msgstr "ACF Télélickert"
+
+#. Description of the plugin
+msgid "Lickert number field for Advanced Custom Fields v5."
+msgstr "Champ de numéro de télélickert pour Advanced Custom Fields v5."
+
+#. URI of the plugin
+msgid "https://github.com/lewebsimple/acf-lickert"
+msgstr "https://github.com/lewebsimple/acf-lickert"
+
+#. Author of the plugin
+msgid "Pascal Martineau <pascal@lewebsimple.ca>"
+msgstr "Pascal Martineau <pascal@lewebsimple.ca>"
+
+#. Author URI of the plugin
+msgid "https://lewebsimple.ca"
+msgstr "https://lewebsimple.ca"
