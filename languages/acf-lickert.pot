@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ACF Lickert\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-25 19:13+0000\n"
+"POT-Creation-Date: 2020-02-04 15:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -14,68 +14,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/"
 
-#: fields/class-acf-lickert-v5.php:262
-msgid "Lickert"
+#: fields/class-acf-lickert-v5.php:15
+msgid "Lickert Scale"
 msgstr ""
 
-#: fields/class-acf-lickert-v5.php:280
-msgid "Initial country"
+#: fields/class-acf-lickert-v5.php:33
+msgid "Scale Resolution"
 msgstr ""
 
-#: fields/class-acf-lickert-v5.php:281
-msgid "Default country when initializing lickert input."
+#: fields/class-acf-lickert-v5.php:34
+msgid "The number of choices in the scale."
 msgstr ""
 
-#: fields/class-acf-lickert-v5.php:288
+#: fields/class-acf-lickert-v5.php:43
 msgid "Return format"
 msgstr ""
 
-#: fields/class-acf-lickert-v5.php:289
+#: fields/class-acf-lickert-v5.php:44
 msgid "Specify the return format used in the templates."
 msgstr ""
 
-#: fields/class-acf-lickert-v5.php:293
-msgid "National format"
+#: fields/class-acf-lickert-v5.php:48
+msgid "Formatted"
 msgstr ""
 
-#: fields/class-acf-lickert-v5.php:294
-msgid "International format (E.164)"
-msgstr ""
-
-#: fields/class-acf-lickert-v5.php:295
-msgid "Click to Call"
-msgstr ""
-
-#: fields/class-acf-lickert-v5.php:296
+#: fields/class-acf-lickert-v5.php:49
 msgid "Values (array)"
 msgstr ""
 
-#: fields/class-acf-lickert-v5.php:311 fields/class-acf-lickert-v5.php:380
-msgid "Invalid lickert number"
+#: fields/class-acf-lickert-v5.php:94
+msgid "Comment"
 msgstr ""
 
-#: fields/class-acf-lickert-v5.php:312
-msgid "Invalid country code"
-msgstr ""
-
-#: fields/class-acf-lickert-v5.php:313
-msgid "Lickert number too short"
-msgstr ""
-
-#: fields/class-acf-lickert-v5.php:314
-msgid "Lickert number too long"
-msgstr ""
-
-#: fields/class-acf-lickert-v5.php:315
-msgid "Missing region code"
-msgstr ""
-
-#: fields/class-acf-lickert-v5.php:316
-msgid "Invalid lickert number length"
-msgstr ""
-
-#: fields/class-acf-lickert-v5.php:359
-msgid "Please enable JavaScript to use this field."
+#: fields/class-acf-lickert-v5.php:116
+msgid "Invalid score"
 msgstr ""
 
 #. Name of the plugin
@@ -83,7 +55,7 @@ msgid "ACF Lickert"
 msgstr ""
 
 #. Description of the plugin
-msgid "Lickert number field for Advanced Custom Fields v5."
+msgid "Lickert scale field for Advanced Custom Fields v5."
 msgstr ""
 
 #. URI of the plugin
