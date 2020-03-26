@@ -11,5 +11,8 @@ Lickert scale field for Advanced Custom Field v5.
 
 == Changelog ==
 
+= 1.0.1 =
+* Add composer.json
+
 = 1.0.0 =
 * Initial Lickert scale field type
