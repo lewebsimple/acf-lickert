@@ -11,6 +11,9 @@ Lickert scale field for Advanced Custom Field v5.
 
 == Changelog ==
 
+= 1.0.2 =
+* Fix display problem on Chrome using Bootstrap custom-form classes
+
 = 1.0.1 =
 * Add composer.json
 

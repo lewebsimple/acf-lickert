@@ -82,9 +82,9 @@ if ( ! class_exists( 'acf_lickert_field' ) ) {
 			<div class="acf-input-wrap acf-lickert">
 				<div class="form-group score">
 					<?php for ( $i = 1; $i <= $field['resolution']; $i ++ ): ?>
-						<div class="form-check form-check-inline">
-							<input type="radio" id="<?= $name ?>-score-<?= $i ?>" name="<?= $name ?>[score]" value="<?= $i ?>" class="form-check-input" <?php checked( $value['score'], $i ) ?>/>
-							<label class="form-check-label" for="<?= $name ?>-score-<?= $i ?>">
+						<div class="form-check form-check-inline custom-control custom-radio custom-control-inline">
+							<input type="radio" id="<?= $name ?>-score-<?= $i ?>" name="<?= $name ?>[score]" value="<?= $i ?>" class="form-check-input custom-control-input" <?php checked( $value['score'], $i ) ?>/>
+							<label class="form-check-label custom-control-label" for="<?= $name ?>-score-<?= $i ?>">
 								<?= $i ?>
 							</label>
 						</div>
